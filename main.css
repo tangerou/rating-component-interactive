@@ -154,6 +154,10 @@ body {
   margin-bottom: 0.5em;
 }
 
+.app__thank-message .thank-desc {
+  text-align: center;
+}
+
 .attribution {
   color: var(--gray-500);
 }
